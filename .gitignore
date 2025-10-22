@@ -1,0 +1,12 @@
+# Backend sensitive files
+/insuranceReportApplication/src/main/resources/application.properties
+/insuranceReportApplication/src/main/resources/application-*.properties
+
+# Backend build folders
+/insuranceReportApplication/target/
+
+# Frontend node_modules
+/insurance-frontend/node_modules/
+
+# Frontend build/dist
+/insurance-frontend/dist/
